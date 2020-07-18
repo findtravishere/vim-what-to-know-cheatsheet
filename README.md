@@ -1,5 +1,5 @@
 # My personal Vim Cheatsheet and all you need to know. 
-This is meant for people new to Vim and I will be updating it along the way, feel free to alert me of any errors or additions. 
+This is meant for people who are new to Vim and I will be updating it along the way, feel free to alert me of any errors or additions. 
 ---
 ```bash
 vim nameOfFileGoesHere  # to open a new file with that name or edit an existing file in the terminal. 
