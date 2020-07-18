@@ -2,7 +2,7 @@
 This is meant for people who are new to Vim and I will be updating it along the way.
 Feel free to alert me of any errors or additions. 
 
-### I have added a test.txt file with 300 lines of lorem ipsum for fiddling around with vim commands. 
+### Added a test.txt file with 400 lines of lorem ipsum to download/copy for fiddling around with vim commands. 
 
 ---
 ```bash
