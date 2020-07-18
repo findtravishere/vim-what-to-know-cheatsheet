@@ -2,6 +2,8 @@
 This is meant for people who are new to Vim and I will be updating it along the way.
 Feel free to alert me of any errors or additions. 
 
+I have added a test.txt file with 300 lines of lorem ipsum to fiddle around with vim commands. 
+
 ---
 ```bash
 vim nameOfFileGoesHere  # to open a new file with that name or edit an existing file in the terminal. 
