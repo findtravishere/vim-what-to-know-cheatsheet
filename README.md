@@ -61,5 +61,7 @@ dk                  # deletes current line and line above you.
 d0                  # to delete to the start of line not including current position.
 d$                  # to delete to the end of line including current position.  
 dd                  # to delete the entire line. 
+<number> dd         # to delete a specified number of lines including current line.
+D                   # to delete from current position to end of line. 
 ```
 
