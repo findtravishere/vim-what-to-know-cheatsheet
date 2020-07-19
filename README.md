@@ -63,6 +63,7 @@ d$                  # to delete to the end of line including current position.
 dd                  # to delete the entire line. 
 <number> dd         # to delete a specified number of lines including current line.
 D                   # to delete from current position to end of line. 
-<num> d <num> w     # first num specifies the number of times to delete a specified number of words 
+<num> d <num> w     # first num specifies the number of times to delete a specified number of words.
+.                   # repeats previous command. 
 ```
 
